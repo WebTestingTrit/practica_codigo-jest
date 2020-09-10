@@ -1,28 +1,27 @@
-# Práctica pruebas funcionales con Cypress
+# Práctica pruebas de código con Jest
 
 ## Definición
+Rehacer la práctica incial de las primeras pruebas
 
-Probar el funcionamiento de una web usando _Cypress_.
-Preferiblemente usa una tuya que tenga una parte accesible al público. 
-Si no puedes o quieres, te propongo que uses https://www.timeanddate.com/
+Implementar una pila Last-In-First-Out (LIFO) en JavaScript
+
+Crear un estructura que permita agregar elementos. Al recuperar los elementos devolverá el último agregado. Al devolverlo lo eliminrá de la pila.
 
 ### Requerimientos
 
-Probar al menos 
+Se añadirán uno a uno con el método `push(item)`
 
-- una interacción de navegación del usuario
-- una interacción de tecleo
-- una interacción de click
+Se recuperarán uno a uno con el método `pop()`
 
-Crear algún comendo custom
+Pero esta vez se requiere:
 
-Desacoplar el API mediante fixtures si es posible
+  - Usar Jest para las pruebas
 
+  - Partir de las pruebas antes del código. Es decir usar TDD.
+  
 #### Recomendaciones
 
-Seguir la estructura _Arrange-Act-Assert_
-
-En los mensajes escritos usar el patrón _Given-When-Then_
+Documentarlo siguiendo la técnica BDD
 
 ### Commits y deploy
 
