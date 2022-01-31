@@ -1,23 +1,23 @@
 {
-  "name": "quark",
+  "name": "practica-jest",
   "version": "1.1.2",
-  "description": "Fundamental project template",
+  "description": "Ejercicio práctico de tdd con jest",
   "author": {
     "name": "Alberto Basalo",
-    "email": "albertobasalo@agorabinaria.com",
+    "email": "albertobasalo@hotmail.com",
     "url": "https://twitter.com/albertobasalo"
   },
-  "homepage": "https://github.com/AtomicBuilders/quark#readme",
+  "homepage": "https://github.com/WebTestingTrit/practica-jest#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AtomicBuilders/quark.git"
+    "url": "git+https://github.com/WebTestingTrit/practica-jest.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AtomicBuilders/quark/issues"
+    "url": "https://github.com/WebTestingTrit/practica-jest/issues"
   },
   "scripts": {
-    "deploy": "standard-version && git push --follow-tags origin master",
+    "deploy": "standard-version && git push --follow-tags origin main",
     "updates": "ncu -u"
   },
   "devDependencies": {

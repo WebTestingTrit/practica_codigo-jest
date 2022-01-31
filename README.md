@@ -1,7 +1,8 @@
 # Práctica pruebas de código con Jest
 
 ## Definición
-Rehacer la práctica incial de las primeras pruebas
+
+Rehacer la práctica inicial de las primeras pruebas
 
 Implementar una pila Last-In-First-Out (LIFO) en JavaScript
 
@@ -15,10 +16,10 @@ Se recuperarán uno a uno con el método `pop()`
 
 Pero esta vez se requiere:
 
-  - Usar Jest para las pruebas
+- Usar Jest para las pruebas
 
-  - Partir de las pruebas antes del código. Es decir usar TDD.
-  
+- Partir de las pruebas antes del código. Es decir usar TDD.
+
 #### Recomendaciones
 
 Documentarlo siguiendo la técnica BDD
@@ -33,4 +34,14 @@ Documentarlo siguiendo la técnica BDD
 
 ### Code style y Prettier
 
--  Recomendado [extension](https://github.com/prettier/prettier-vscode) for VSCode
+- Recomendado [extension](https://github.com/prettier/prettier-vscode) for VSCode
+
+---
+
+<footer>
+  <h3>Creado por Alberto Basalo</h3>
+  <p align="">
+   <a href="https://twitter.com/albertobasalo" target="blank"><img src="https://img.shields.io/twitter/follow/albertobasalo?logo=twitter&style=for-the-badge" alt="albertobasalo" /></a>
+  </p>
+     <a href="https://github.com/albertobasalo" target="blank"><img src="https://img.shields.io/github/followers/albertobasalo?logo=github&label=profile albertobasalo&style=for-the-badge" alt="albertobasalo" /></a>
+</footer>
